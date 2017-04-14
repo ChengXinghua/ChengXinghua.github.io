@@ -1,2 +1,2 @@
 # ChengXinghua.github.io
-关于GIS开发的博客
+分享GIS开发的经验、一些学习资料。
